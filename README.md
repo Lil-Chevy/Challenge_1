@@ -1,6 +1,6 @@
 # Code Refactor for Horiseon
+![Horiseon Screenshot](assets/images/horiseon-landing-page.png)
 
-![Screenshot](./images/Horiseon-landing-page)
 ## Changes Made
 *made search optimization work properly.
 <br>
