@@ -1,5 +1,6 @@
 # Code Refactor for Horiseon
 
+![Screenshot](./images/Horiseon-landing-page)
 ## Changes Made
 *made search optimization work properly.
 <br>
@@ -31,4 +32,5 @@
 <br>
 *added floor right style for article main's secondary image making it override previous css to present the image on the right side.
 <br>
-*add image
+## Website
+URL: https://lil-chevy.github.io/code_refactor/

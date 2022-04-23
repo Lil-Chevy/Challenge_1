@@ -9,7 +9,7 @@
 body {
   background-color: #d9dcd6;
 }
-
+/* Header */
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -53,7 +53,7 @@ header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
-
+/* footer */
 footer {
     padding: 30px;
     clear: both;
