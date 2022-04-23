@@ -11,7 +11,7 @@
 <br>
 *changed Website title.
 <br>
-*removed header class and changed to element header with coresponding css.
+*removed header class and changed to element header with corresponding css.
 <br>
 *removed float class and added to css corresponding images.
 <br>
@@ -25,8 +25,8 @@
 <br>
 *added nav for ul li.
 <br>
-*removed css protaining to articlle main and set to one.
+*removed css pertaining to article main and set to one.
 <br>
-*reduced css regarding the benifits section for the text alignment, font and styling.
+*reduced css regarding the benefits section for the text alignment, font and styling.
 <br>
-*added floar right style for article main's secondary image making it overide previous css to present the image on the right side.
+*added floor right style for article main's secondary image making it override previous css to present the image on the right side.
