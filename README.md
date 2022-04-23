@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Code Refactor for Horiseon
 
 ## Changes Made
 *made search optimization work properly.
@@ -30,3 +30,5 @@
 *reduced css regarding the benefits section for the text alignment, font and styling.
 <br>
 *added floor right style for article main's secondary image making it override previous css to present the image on the right side.
+<br>
+*add image
