@@ -1,7 +1,7 @@
 # Code Refactor for Horiseon
 ![Horiseon Screenshot](assets/images/horiseon-landing-page.png)
 ## Changes Made
-*Added HTML to make Nav menu works properly.
+*Added HTML to make Nav menu work properly.
 <br>
 *changed semantic HTML elements to properly display intent.
 <br>

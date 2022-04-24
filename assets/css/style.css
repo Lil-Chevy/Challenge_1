@@ -6,6 +6,8 @@
 }
 
 /* element selectors */
+
+/* body background color */
 body {
   background-color: #d9dcd6;
 }
@@ -17,25 +19,25 @@ header {
   background-color: #2a607c;
   color: #ffffff;
 }
-
+/* attributes for nav list */
 a {
   color: #ffffff;
   text-decoration: none;
 }
-
+/* paragraph font size */
 p {
   font-size: 16px;
 }
-
+/* header font and display */
 header h1 {
   display: inline-block;
   font-size: 48px;
 }
-
+/* changing header color for seo in "Horiseon" */
 header h1 .seo {
   color: #d9dcd6;
 }
-
+/* navigation menu */
 header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -45,10 +47,7 @@ header nav {
   font-size: 20px;
 }
 
-header nav ul {
-  list-style-type: none;
-}
-
+/* sets navigation menu to row */
 header nav ul li {
   display: inline-block;
   margin-left: 25px;
@@ -61,12 +60,14 @@ footer {
       "Lucida Sans", Arial, sans-serif;
     text-align: center;
   }
-  
+/* footer h2 font */
   footer h2 {
     font-size: 20px;
   }
 
 /* class selectors */
+
+/* hero for landing page */
 .hero {
   height: 800px;
   width: 100%;
@@ -75,13 +76,18 @@ footer {
   background-size: cover;
   background-position: center;
 }
-
+/* positioning of articles on landing page */
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
-
+/* hero content class selector for h2 */
+.content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+  }
+/* Benefits section class selectors */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -93,24 +99,24 @@ footer {
     sans-serif;
   background-color: #2589bd;
 }
-
+/* sets color and spacing of text */
 .benefit-head {
   margin-bottom: 32px;
   color: #ffffff;
 }
-
+/* title of benefits section */
 .benefit-head h3 {
   margin-bottom: 10px;
   text-align: center;
 }
-
+/* sets benefits section images to size */
 .benefits img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
-
-.article-main {
+/* article card spacing on page */
+.article-card {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -119,23 +125,16 @@ footer {
   background-color: #0072bb;
   color: #ffffff;
 }
-
-.article-main img {
+/* sets article card images on left side */
+.article-card img {
   max-height: 200px;
   float: left;
   margin-right: 25px;
 }
-
-.article-main-secondary img {
+/* floats middle article card image to the right */
+.article-card-secondary img {
   max-height: 200px;
   float: right;
   margin: 0 0 0 25px;
 }
-
-/* hero content selector for h2 */
-.content h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
 
